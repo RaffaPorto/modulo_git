@@ -20,10 +20,10 @@
                     <a href="economy" title="Ir para a seção de economia">Economia</a>
                 </li>
                 <li>
-                    <a href="#moda" title="Ir para a seção de entretenimento">Entretenimento</a>
+                    <a href="#entertainment" title="Ir para a seção de entretenimento">Entretenimento</a>
                 </li>
                 <li>
-                    <a href="#entertainment" title="Ir para a seção de moda">Moda</a>
+                    <a href="#fashion" title="Ir para a seção de moda">Moda</a>
                 </li>
             </ul>
         </nav>
